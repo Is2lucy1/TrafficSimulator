@@ -1,0 +1,55 @@
+Intersection,EADT,N,S,E,W,EW_lanes,NS_lanes,device,TestNo
+38th and Leavenworth,21570,1752,428,20178,20782,2,2,light,1
+38th and Leavenworth,21570,1752,428,20178,20782,2,2,sign,2
+38th and Leavenworth,21570,1752,428,20178,20782,2,4,light,3
+38th and Leavenworth,21570,1752,428,20178,20782,2,4,sign,4
+38th and Leavenworth,21570,1752,428,20178,20782,2,6,light,5
+38th and Leavenworth,21570,1752,428,20178,20782,2,6,sign,6
+38th and Leavenworth,21570,1752,428,20178,20782,4,2,light,7
+38th and Leavenworth,21570,1752,428,20178,20782,4,2,sign,8
+38th and Leavenworth,21570,1752,428,20178,20782,4,4,light,9
+38th and Leavenworth,21570,1752,428,20178,20782,4,4,sign,10
+38th and Leavenworth,21570,1752,428,20178,20782,4,6,light,11
+38th and Leavenworth,21570,1752,428,20178,20782,4,6,sign,12
+38th and Leavenworth,21570,1752,428,20178,20782,6,2,light,13
+38th and Leavenworth,21570,1752,428,20178,20782,6,2,sign,14
+38th and Leavenworth,21570,1752,428,20178,20782,6,4,light,15
+38th and Leavenworth,21570,1752,428,20178,20782,6,4,sign,16
+38th and Leavenworth,21570,1752,428,20178,20782,6,6,light,17
+38th and Leavenworth,21570,1752,428,20178,20782,6,6,sign,18
+42nd and Leavenworth,41000,16854,18710,22712,23724,2,2,light,19
+42nd and Leavenworth,41000,16854,18710,22712,23724,2,2,sign,20
+42nd and Leavenworth,41000,16854,18710,22712,23724,2,4,light,21
+42nd and Leavenworth,41000,16854,18710,22712,23724,2,4,sign,22
+42nd and Leavenworth,41000,16854,18710,22712,23724,2,6,light,23
+42nd and Leavenworth,41000,16854,18710,22712,23724,2,6,sign,24
+42nd and Leavenworth,41000,16854,18710,22712,23724,4,2,light,25
+42nd and Leavenworth,41000,16854,18710,22712,23724,4,2,sign,26
+42nd and Leavenworth,41000,16854,18710,22712,23724,4,4,light,27
+42nd and Leavenworth,41000,16854,18710,22712,23724,4,4,sign,28
+42nd and Leavenworth,41000,16854,18710,22712,23724,4,6,light,29
+42nd and Leavenworth,41000,16854,18710,22712,23724,4,6,sign,30
+42nd and Leavenworth,41000,16854,18710,22712,23724,6,2,light,31
+42nd and Leavenworth,41000,16854,18710,22712,23724,6,2,sign,32
+42nd and Leavenworth,41000,16854,18710,22712,23724,6,4,light,33
+42nd and Leavenworth,41000,16854,18710,22712,23724,6,4,sign,34
+42nd and Leavenworth,41000,16854,18710,22712,23724,6,6,light,35
+42nd and Leavenworth,41000,16854,18710,22712,23724,6,6,sign,36
+fake street,1,2,3,4,5,2,2,light,37
+fake street,1,2,3,4,5,2,2,sign,38
+fake street,1,2,3,4,5,2,4,light,39
+fake street,1,2,3,4,5,2,4,sign,40
+fake street,1,2,3,4,5,2,6,light,41
+fake street,1,2,3,4,5,2,6,sign,42
+fake street,1,2,3,4,5,4,2,light,43
+fake street,1,2,3,4,5,4,2,sign,44
+fake street,1,2,3,4,5,4,4,light,45
+fake street,1,2,3,4,5,4,4,sign,46
+fake street,1,2,3,4,5,4,6,light,47
+fake street,1,2,3,4,5,4,6,sign,48
+fake street,1,2,3,4,5,6,2,light,49
+fake street,1,2,3,4,5,6,2,sign,50
+fake street,1,2,3,4,5,6,4,light,51
+fake street,1,2,3,4,5,6,4,sign,52
+fake street,1,2,3,4,5,6,6,light,53
+fake street,1,2,3,4,5,6,6,sign,54
